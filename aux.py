@@ -512,7 +512,7 @@ def generate_tstat(sample_size, sparsity = 0, amplitude = 0, sigma = 1):
     stat    = (alpha1*(1-rv1.cdf(T1))+(alpha1*T1+alpha2)*rv1.pdf(T1)-g0**(-1)*alpha3**2*(1-rv2.cdf(T1)))/\
             (alpha1*(1-rv1.cdf(T2))+(alpha1*T2+alpha2)*rv1.pdf(T2)-g0**(-1)*alpha3**2*(1-rv2.cdf(T2))) 
                
-    return [stat, k2]
+    return [stat, var_estimated]
 
 #%% Dirichlet kernel
 
