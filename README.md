@@ -26,6 +26,6 @@ seaborn>=0.8.1
 
 ## Getting started
 
-Once you have downloaded the two files testing_superresolution.py and aux.py, you can execute testing_superresolution.py to make the numerical experiments of the paper. The notebook 'testing_super_resolution.ipynb' is an illustration of this code. It should take you between 15 to 30min to run all the experiments below.
+Once you have downloaded the two files testing_superresolution.py and aux.py, you can execute testing_superresolution.py to make the numerical experiments of the paper. The notebook 'testing_super_resolution.ipynb' is an illustration of this code. It should take you between 15 to 30min to run all the experiments below (for less than iterations<=500).
 
 Thank you for your time!
