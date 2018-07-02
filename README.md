@@ -2,7 +2,7 @@
 # Testing Procedure for Super Resolution
 
 This repository contains an illsutration of the numerical experiments performed in the paper entitled
-"Testing Gaussian Process with Applications to Super-Resolution" by Jean-Marc Azaïs and Yohann De Castro
+"Testing Gaussian Process with Applications to Super-Resolution" by Jean-Marc Azaïs, Yohann De Castro and Stéphane Mourareau.
 
 ## Python code
 
