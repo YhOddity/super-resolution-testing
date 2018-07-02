@@ -22,8 +22,6 @@ numpy>=1.14.0
 
 scipy>=1.0.0
 
-matplotlib>=2.1.2
-
 seaborn>=0.8.1
 
 ## Getting started
