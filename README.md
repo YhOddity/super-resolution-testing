@@ -6,6 +6,8 @@ This repository contains an illsutration of the numerical experiments performed 
 
 https://arxiv.org/abs/1706.00679
 
+Chapter 6 (Pages 25-29) of version 3.
+
 ## Python code
 
 The Python code can be downloaded at 
