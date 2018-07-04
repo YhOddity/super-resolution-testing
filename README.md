@@ -4,7 +4,7 @@
 This repository contains an illsutration of the numerical experiments performed in the paper entitled
 "*Testing Gaussian Process with Applications to Super-Resolution*" by Jean-Marc Azaïs, Yohann De Castro and Stéphane Mourareau.
 
-[Download file on the ArXiv](https://arxiv.org/abs/1706.00679v3)
+[Download file on the ArXiv (arXiv:1706.00679v3)](https://arxiv.org/abs/1706.00679v3)
 
 Chapter 6 (Pages 25-29) of version 3.
 
@@ -12,9 +12,9 @@ Chapter 6 (Pages 25-29) of version 3.
 
 The Python code can be downloaded at 
 
-https://github.com/ydecastro/super-resolution-testing
+[Github repository super-resolution-testing](https://github.com/ydecastro/super-resolution-testing)
 
-The file 'aux.py' contains all the auxilliary functions. The file 'testing_superresolution.py' is illustrated in the notebook 'testing_super_resolution.ipynb'.
+The file **aux.py** contains all the auxilliary functions. The file **testing_superresolution.py** is illustrated in the notebook 'testing_super_resolution.ipynb'.
 
 It requires at most:
 
@@ -30,6 +30,6 @@ seaborn>=0.8.1
 
 Once you have downloaded the two files **testing_superresolution.py** and **aux.py**, you can execute *testing_superresolution.py* to make the numerical experiments of the paper. The notebook **testing_super_resolution.ipynb** is an illustration of this code. It should take you between 15 to 30min to run all the experiments below (for less than **iterations**<=500 montecarlo simulations).
 
-https://github.com/ydecastro/super-resolution-testing/blob/master/testing_super_resolution.ipynb
+[Have a look at the Jupiter notebook on blob](https://github.com/ydecastro/super-resolution-testing/blob/master/testing_super_resolution.ipynb)
 
 *Thank you for your time!*
