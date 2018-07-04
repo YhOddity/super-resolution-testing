@@ -30,6 +30,6 @@ seaborn>=0.8.1
 
 Once you have downloaded the two files **testing_superresolution.py** and **aux.py**, you can execute *testing_superresolution.py* to make the numerical experiments of the paper. The notebook **testing_super_resolution.ipynb** is an illustration of this code. It should take you between 15 to 30min to run all the experiments below (for less than **iterations**<=500 montecarlo simulations).
 
-[Have a look at the Jupiter notebook on blob](https://github.com/ydecastro/super-resolution-testing/blob/master/testing_super_resolution.ipynb)
+[Have a look at the Jupiter notebook on blob](https://github.com/ydecastro/super-resolution-testing/blob/master/super-resolution-testing.ipynb)
 
 *Thank you for your time!*
