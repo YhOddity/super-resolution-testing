@@ -32,7 +32,7 @@ sample_size     = 5
 sparsity        = 0 
 amplitude       = 0
 sigma           = 1
-iterations      = 50
+iterations      = 500
 
 emp = np.zeros(iterations)
 
