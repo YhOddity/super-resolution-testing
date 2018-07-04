@@ -4,7 +4,7 @@
 This repository contains an illsutration of the numerical experiments performed in the paper entitled
 "*Testing Gaussian Process with Applications to Super-Resolution*" by Jean-Marc Azaïs, Yohann De Castro and Stéphane Mourareau.
 
-https://arxiv.org/abs/1706.00679v3
+[Download file on the ArXiv](https://arxiv.org/abs/1706.00679v3)
 
 Chapter 6 (Pages 25-29) of version 3.
 
