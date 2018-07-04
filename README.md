@@ -12,7 +12,7 @@ Chapter 6 (Pages 25-29) of version 3.
 
 The Python code can be downloaded at 
 
-[Github repository super-resolution-testing](https://github.com/ydecastro/super-resolution-testing)
+[Github repository super-resolution-testing ZIP file](https://github.com/ydecastro/super-resolution-testing.zip)
 
 The file **aux.py** contains all the auxilliary functions. The file **testing_superresolution.py** is illustrated in the notebook 'testing_super_resolution.ipynb'.
 
